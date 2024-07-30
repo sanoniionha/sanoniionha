@@ -1,16 +1,16 @@
-## Hi there 👋
+## E aí? 👋
 
-<!--
-**sanoniionha/sanoniionha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aqui vai uma ✨ _breve_ ✨ apresentação sobre mim:
 
-Here are some ideas to get you started:
+Vamos lá!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐱‍💻 Atualmente me encontro estudando Análise e Desenvolvimento de Sistemas.
+- 🌱 Procuro sempre adquirir conhecimentos diversos.
+- 👯 Procuro colaborar em projetos no futuro.
+- 🤔 Precisando de ajuda, só chamar!
+- 💬 Gosto de conversar sobre muitos assuntos, mas Música fica no topo deles.
+- 📫 Você pode me encontrar em minhas redes sociais:
+- FB: San Onionha
+- IG: @sanonionha
+- 😄 Pronomes: ela-dela
+- ⚡ Fato interessante: Sou vocalista de uma banda de Metal nas horas vagas!
